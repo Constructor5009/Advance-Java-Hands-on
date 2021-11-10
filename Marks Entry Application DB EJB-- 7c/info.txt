@@ -1,0 +1,1 @@
+Develop simple Marks Entry Application to demonstrate accessing Database using EJB.
