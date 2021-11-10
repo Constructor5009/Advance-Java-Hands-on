@@ -1,0 +1,22 @@
+
+public class Employee implements Person
+{
+    private String name;
+    private int id;
+    private Address address;
+    public Employee(){}
+    public String getName()
+    {return this.name;}
+    public void setName(String nm)
+    {this.name=nm;}
+    public int getID()
+    {return id;}
+    public void setID(int id)
+    {this.id=id;}
+    public Address getAddress()
+    {return address;}
+    public void setAddress(Address address)
+    {this.address=address;}
+        public String toString()
+        { return "ID"+id+"Name"+name+"Address="+address;}
+}
