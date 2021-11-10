@@ -1,0 +1,12 @@
+SMAP
+welcome_jsp.java
+JSP
+*S JSP
+*F
++ 0 welcome.jsp
+WEB-INF/welcome.jsp
+*L
+1,11:44
+12,3:56
+14,4:59
+*E
